@@ -19,7 +19,7 @@ const config: HardhatUserConfig = {
     },
   },
   etherscan: {
-    apiKey: { sepolia: ETHERSCAN_API_KEY || "" },
+    apiKey: ETHERSCAN_API_KEY || "",
   },
   typechain: {
     outDir: "frontend/src/types",   // emit types directly into frontend
