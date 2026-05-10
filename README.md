@@ -1,5 +1,7 @@
 # MiniVault
 
+> **Live demo:** [ezreal222.github.io/minivault](https://ezreal222.github.io/minivault/) — connect MetaMask on Sepolia to interact.
+
 A crypto-collateralized stablecoin system on the Ethereum Sepolia testnet,
 built end-to-end as the final project for **CS-GY 9223 — Introduction to
 Blockchain and Distributed Ledger Technology** (NYU Tandon, Spring 2026).
