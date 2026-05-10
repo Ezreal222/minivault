@@ -195,9 +195,6 @@ Trade-offs and limitations are discussed in `paper/MiniVault_Paper.pdf` §3.
 
 ## Demo video
 
-A 3–5 minute walkthrough of the full flow (deposit → mint → health factor →
-liquidation, plus a tour of the circuit breaker in code) is available at:
-
 > [YouTube unlisted link]
 
 ---
@@ -205,10 +202,7 @@ liquidation, plus a tour of the circuit breaker in code) is available at:
 ## Paper
 
 A 2-page writeup grounded in MakerDAO, Liquity, and the Mango Markets
-post-mortem lives at `paper/MiniVault_Paper.pdf`. References include:
-Nakamoto (2008), Buterin et al. (2014), Maker Foundation (2020), Liquity AG
-(2021), Klages-Mundt et al. (AFT 2020), Daian et al. (IEEE S&P 2020), and the
-Mango DAO post-mortem (2022).
+post-mortem lives at `paper/MiniVault_Paper.pdf`.
 
 ---
 
