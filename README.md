@@ -195,7 +195,7 @@ Trade-offs and limitations are discussed in `paper/MiniVault_Paper.pdf` §3.
 
 ## Demo video
 
-> [YouTube unlisted link]
+> [\[YouTube unlisted link\]](https://youtu.be/jVQ1ZOgZxeM)
 
 ---
 
