@@ -181,7 +181,17 @@ export default function App() {
         </div>
         <div className="hairline-solid" />
         <div className="max-w-[640px] mx-auto px-6 py-4 flex items-center justify-between text-[10px] tracking-widest uppercase text-ink-500">
-          <span>NYU TANDON · CS-GY 9223 D</span>
+          <span>
+            NYU TANDON ·{" "}
+            <a
+              href="https://linkedin.com/in/yang-zheng-nyu"
+              target="_blank"
+              rel="noreferrer"
+              className="hover:text-ink-100 transition-colors"
+            >
+              @YANG-ZHENG
+            </a>
+          </span>
           <span>NOT FINANCIAL ADVICE — TESTNET ONLY</span>
         </div>
       </footer>
